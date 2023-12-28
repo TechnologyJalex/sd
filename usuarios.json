@@ -1,0 +1,30 @@
+[{
+        "nombre": "Jarod",
+        "apellido": "Mendoza",
+        "edad": "22",
+        "telefono": "123456789",
+        "usuario": "usuario1",
+        "contrasena": "contrasena1",
+        "codigo_referido": "ref123",
+        "enlace_referido": "worldglobal.world\/ref123"
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "Gonz\u00e1lez",
+        "edad": 25,
+        "telefono": "987654321",
+        "usuario": "usuario2",
+        "contrasena": "contrasena2",
+        "codigo_referido": "ref456",
+        "enlace_referido": "httpworldglobal.world/ref123"
+    },
+    {
+        "nombre": "juanito",
+        "apellido": "melani",
+        "edad": "22",
+        "telefono": "9988888",
+        "usuario": "juaniti",
+        "contrasena": "1111",
+        "codigo_referido": "worldglobal.world\/ref123"
+    }
+]
